@@ -1,5 +1,5 @@
 import React from 'react';
-import album_art from '../art/shihan.jpg'
+import album_art from '../art/shihan.jpg';
 import ArtistSong from './ArtistSong';
 
 function ArtistAlbum() {
@@ -21,7 +21,6 @@ function ArtistAlbum() {
                 </div>
             </div>
         </div>
-
     );
 }
 
